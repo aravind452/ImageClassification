@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BirdsDetection</string>
+    <string name="dummy_text">Dummy Text 2</string>
+    <string name="load_image">Load Image</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="output">Output:-</string>
+    <string name="result">Result Here</string>
+    <string name="click_to_search">Click on result to search image on google</string>
+    <string name="default_image">default Image</string>
+    <string name="load_image1">LOAD IMAGE</string>
+    <string name="result_here1">Result Here</string>
+    <string name="image">Image</string>
+    <string name="load_image2">Load image</string>
+    <string name="click_the_result_to_more_about_the_bird">Click the result to search on Google</string>
+</resources>
